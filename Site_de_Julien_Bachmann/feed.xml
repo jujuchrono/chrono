@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:6BA4E35D-EE33-4CD3-908B-A17DFFD390F0</id>
+ <title>Page list Atom feed</title>
+ <updated>2012-06-24T09:09:41+02:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:FD76A8FD-0142-4FFC-AB9F-DE27F296E549</id>
+  <title>Welcome</title>
+  <title xmlns="urn:iweb:">Welcome</title>
+  <in-navbar xmlns="urn:iweb:">FD76A8FD-0142-4FFC-AB9F-DE27F296E549</in-navbar>
+  <link rel="alternate" href="Welcome.html"/>
+  <updated>2012-06-24T09:09:41.001+02:00</updated>
+  <content>Welcome</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:8EB85B66-5276-4FB4-8C77-C6C0E8152FBC</id>
+  <title>Chrono</title>
+  <title xmlns="urn:iweb:">Chrono</title>
+  <in-navbar xmlns="urn:iweb:">8EB85B66-5276-4FB4-8C77-C6C0E8152FBC</in-navbar>
+  <link rel="alternate" href="Chrono.html"/>
+  <updated>2012-06-24T09:09:41.002+02:00</updated>
+  <content>Chrono</content>
+ </entry>
+</feed>
